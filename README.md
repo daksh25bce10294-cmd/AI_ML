@@ -93,7 +93,8 @@ This project demonstrates the practical application of Machine Learning in detec
 ## 👨‍🎓 Author
 
 **Name :** Daksh Amitkumar Gandhi
-**Reg. No. : 25BCE10294
+
+*Reg. No. : 25BCE10294
 **Course :** B.Tech CSE
 
 ---
