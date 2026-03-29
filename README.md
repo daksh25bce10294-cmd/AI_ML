@@ -99,9 +99,3 @@ This project demonstrates the practical application of Machine Learning in detec
 **Course :** B.Tech CSE
 
 ---
-
-## 📜 License
-
-This project is developed for academic purposes.
-
----
